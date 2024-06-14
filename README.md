@@ -1,5 +1,5 @@
 Machine Learning Algorithms
-This repository contains a Jupyter Notebook file that demonstrates various machine learning algorithms and concepts using Python and popular libraries such as scikit-learn, pandas, and NumPy.
+This repository contains a Jupyter Notebook file (ml_tut.ipynb) that demonstrates various machine learning algorithms and concepts using Python and popular libraries such as scikit-learn, pandas, and NumPy.
 Contents
 The notebook covers the following topics:
 
